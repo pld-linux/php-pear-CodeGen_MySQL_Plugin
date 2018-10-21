@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - tool to generate MySQL Plugins from an XML description
 Summary(pl.UTF-8):	%{_pearname} - narzędzie do generowania wtyczek do MySQL na podstawie opisu XML
 Name:		php-pear-%{_pearname}
-Version:	0.1.1dev
-Release:	0.1
+Version:	0.9.2
+Release:	1
 License:	PHP
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	b541c550c93e0ee7bbe096c1327639ed
+# Source0-md5:	f7e0eccd3212075d03d47ce264067506
 URL:		http://pear.php.net/package/CodeGen_MySQL_Plugin/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
