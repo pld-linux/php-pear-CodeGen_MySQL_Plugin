@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_class		CodeGen
 %define		_subclass	MySQL_Plugin
 %define		_status		alpha
